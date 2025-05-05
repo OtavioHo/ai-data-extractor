@@ -22,7 +22,3 @@ The App is a web application designed to extract and analyze data from company w
 ## Tests
 
 For time constraints, no test were implemented.
-
-## Deployment
-The app is deployed on [Vercel](https://vercel.com). You can access the live version at:
-[https://mccarren.vercel.app](https://mccarren.vercel.app)
